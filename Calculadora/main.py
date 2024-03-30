@@ -28,4 +28,3 @@ if salario_mensal >= salario_desejado:
   print(f'Parabéns, voce pode se aposentar! Seu salário mensal com esse montate sera de R$ {salario_mensal}')
 elif salario_mensal < salario_desejado:
   print(f'Infelizmente se aponsentar não será possivel. Com esse montate mensal é de R$ {salario_mensal}')
-
